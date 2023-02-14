@@ -57,6 +57,7 @@ coverage.xml
 
 # Pycharm stuff
 .idea
+.DS_Store
 
 # Django stuff:
 *.log
